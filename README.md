@@ -6,4 +6,5 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunteer yang diterima:
+* Taufik Hidayat, [https://github.com/yumtaufikhidayat](https://github.com/yumtaufikhidayat).
 * Zharfan Wafiq, [https://github.com/zharfanwafiq](https://github.com/zharfanwafiq).
